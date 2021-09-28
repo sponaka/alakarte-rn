@@ -1,2 +1,2 @@
-# alakarte-rn
-Mobile App for Alakarte
+# alakarte-mob
+`expo start`
